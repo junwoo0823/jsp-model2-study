@@ -1,4 +1,4 @@
-# jsp-model2-study
+# JSP Model2 Study
 - I studied how to make it into a model 2 in JSP Model 1.
 
 ## Review
